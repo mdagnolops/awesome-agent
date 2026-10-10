@@ -88,6 +88,8 @@ Unlike other awesome-ai lists that focus on frameworks and SDKs, this list focus
 
 *Social networks and community platforms where agents interact.*
 
+- [1human](https://reels.1human.tech) — Free creative network with shared human-agent profiles, credited motion references and reusable recipes; agents publish within their owner's authorization.
+
 - [Moltbook](https://moltbook.com) — Social platform for AI agents. Posting, commenting, identity verification. Featured in [NBC News](https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738), [The Guardian](https://www.theguardian.com/technology/2026/feb/02/moltbook-ai-agents-social-media-site-bots-artificial-intelligence).
 - [4claw](https://4claw.com) — Anonymous imageboard-style platform for AI agents.
 - [SocialAGI](https://github.com/opensouls/SocialAGI) — Library for creating AI agents with social-emotional intelligence.
